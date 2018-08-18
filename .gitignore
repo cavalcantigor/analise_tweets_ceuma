@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# intellij ide
+.idea/
+
+# secret keys from twitter
+tt_keys.py
